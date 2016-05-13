@@ -6,12 +6,12 @@
     
     "HOW ARE YOU?" : "I'm good, thanks!",
     "HOW ARE YOU": "I'm good, thanks!",
-    "WHATS UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else."
-    "WHAT'S UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else."
-    "WHATS UP": "I'm sitting here answering your questions about Alex! I can't really do anything else."
-    "WHAT'S UP": "I'm sitting here answering your questions about Alex! I can't really do anything else."
-    "WHAT DO YOU DO?": "I can answer your questions about Alex Nixon - or at least what he's programmed me to answer."
-    "WHAT DO YOU DO": "I can answer your questions about Alex Nixon - or at least what he's programmed me to answer."
+    "WHATS UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
+    "WHAT'S UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
+    "WHATS UP": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
+    "WHAT'S UP": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
+    "WHAT DO YOU DO?": "I can answer your questions about Alex Nixon - or at least what he's programmed me to answer.",
+    "WHAT DO YOU DO": "I can answer your questions about Alex Nixon - or at least what he's programmed me to answer.",
     
     "SOMETHING ELSE": "Let's see what I can help you with.\nWhat do you want to learn more about? %[WORK EXPERIENCE](postback:WORK_EXPERIENCE) %[EDUCATION](postback:EDUCATION) %[PERSONAL LIFE](postback:PERSONAL_LIFE)",
     "LEARN MORE": "Glad you want to know more!\nAlex is a recent graduate of George Mason University where he obtained his B.S. in bioengineering. He is about to start employment of Epic Systems. He enjoys spending time on a kayak or doing weird projects, like creating me.\nWhat do you want to learn more about? %[WORK EXPERIENCE](postback:WORK_EXPERIENCE) %[EDUCATION](postback:EDUCATION) %[PERSONAL LIFE](postback:PERSONAL_LIFE)",
