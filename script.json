@@ -29,7 +29,7 @@
     
     "EDUCATION": "Alex obtained his B.S. in Bioengineering with a concentration on biomedical signals and systems from George Mason University. He participated in a variety of student organizations and research projects, and he obtained a few awards too! %[ORGANIZATIONS](postback:ORGANIZATIONS) %[RESEARCH](postback:RESEARCH) %[AWARDS](postback:AWARDS)",
     "ORGANIZATIONS": "Alex was president of his school's chapter of the Biomedical Engineering Society.\nHe was also the president and the event chair of Relay for Life on campus.\nAdditionally, he was selected by the Office of Admissions as a Mason Ambassador and was an OSCAR Research fellow. %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
-    "AWARDS": "Not to brag about Alex, but he has received a variety of honors, awards and scholarships.\n Alex needs to finish writing them though...",
+    "AWARDS": "Not to brag about Alex, but he has received a variety of honors, awards and scholarships.\n Alex received the outstanding academic achievement award from the bioengineering department upon graduation, maintained dean's list throughout school, received an honorable mention from the NSF GRFP, as well as many scholarships. %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     
     "PERSONAL LIFE": "Alex was born in August of 1995 in Augsburg, Germany. He enjoys kayaking and hiking, as well as seeing the occasional show. He used to play trombone and hopes to pick it back up one day. %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     "CONNECT ME": "",
