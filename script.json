@@ -6,7 +6,7 @@
     
     "WORK": "Alex started working the day he could. In high school he worked at Pump it Up (a place where parents could hold parties for kids) and Walgreens.\nHe worked a variety of jobs in college. In the IT department he worked as a lead Resident Technician and as a lead Support Center analyst. Additionally, he worked as a grader for one of his classes, and as a laboratory technician in the Laboratory of Nanotechnology and Nanomedicine.\nAlex values research greatly, and worked in multiple laboratories on campus. He even got to go to Beijing, China to work with students. %[Learn more about his research.](postback:RESEARCH) %[Learn more about his work in IT.](postback:IT) %[Tell me more about China!](postback:CHINA) %[Something else?](postback:menu)" ,
     
-    "RESEARCH": "".
+    "RESEARCH": "",
     "IT": "",
     "CHINA": "",
     
