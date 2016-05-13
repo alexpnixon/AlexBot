@@ -1,8 +1,10 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Alex, a recent graduate from George Mason University and a new employee of Epic Systems.\nDo you want to learn more about Alex? It's better than reading his website. %[Learn more](postback:about_alex) %[Give me a random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Thanks for chatting with me!\nHow can I help you? %[Learn more about Alex](postback:LEARN_MORE)%[Get a random fact](postback:RANDOM_FACT)",
+    "LEARN_MORE": "Glad you want to know more!\nAlex is a recent graduate of George Mason University where he obtained his B.S. in bioengineering. He is about to start employment of Epic Systems. He enjoys spending time on a kayak or doing weird projects, like creating me.\nWhat do you want to learn more about?%[Work Experience](postback:WORK)%[Education](postback:SCHOOL)%[Personal Life](postback:PERSONAL)",
+    "RANDOM_FACT": "",
+    "WORK": "",
+    "SCHOOL": "",
+    "PERSONAL": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AlexBot is back."
 }
