@@ -6,14 +6,14 @@
    
     "WORK EXPERIENCE": "Alex started working the day he could. In high school he worked at Pump it Up (a place where parents could hold parties for kids) and Walgreens.\nHe worked a variety of jobs in college. In the IT department he worked as a lead Resident Technician and as a lead Support Center analyst. Additionally, he worked as a grader for one of his classes, and as a laboratory technician in the Laboratory of Nanotechnology and Nanomedicine.\nAlex values research greatly, and worked in multiple laboratories on campus. He even got to go to Beijing, China to work with students. %[MORE ABOUT RESEARCH](postback:MORE_ABOUT_RESEARCH) %[MORE ABOUT IT](postback:MORE_ABOUT_IT) %[MORE ABOUT CHINA](postback:MORE_ABOUT_CHINA) %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     "MORE ABOUT RESEARCH": "Upon entering George Mason Universtiy, Alex knew that he wanted to research.\nA",
-    "MORE ABOUT IT": "",
+    "MORE ABOUT IT": "WRITE ME",
     
     "MORE ABOUT CHINA": "Alex had the opportunity to go to Beijing, China for two weeks in August of 2015 as part of the Center for Excellence in Education's summer RSI at Tsinghua University.\nHe got to work with about 30 different high school students from China on a variety of research projects. \nHe absolutely loved the experience. It did take a bit of adjustment though. %[ADJUSTMENT](postback:ADJUSTMENT) %[AWESOME](postback:AWESOME)",
     "ADJUSTMENT": "Let's just say Alex's first meals in China were KFC, then Pizza Hut.\nThe food quickly became one of Alex's favorite things though. He got to try so many different amazing foods.\nChina was great! Alex got to visit many different monuments and learned a ton!\nWant to learn about something else? %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     "AWESOME": "China was great! Alex got to visit many different monuments and learned a ton!\nWant to learn about something else? %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     
-    "EDUCATION": "",
-    "PERSONAL LIFE": "",
-    "CONNECT ME": "",
+    "EDUCATION": "WRITE ME",
+    "PERSONAL LIFE": "WRITE ME",
+    "CONNECT ME": "WRITE ME",
     "DISCONNECT": "Roger that, AlexBot is back."
 }
