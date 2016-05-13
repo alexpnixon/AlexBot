@@ -1,5 +1,5 @@
 {
-    "HELLO": "Thanks for chatting with me!\nHow can I help you? %[Learn more](postback:LEARN_MORE) %[Random fact](postback:Random fact)",
+    "HELLO": "Thanks for chatting with me!\nHow can I help you? %[Learn more](postback:Learn more) %[Random fact](postback:Random fact)",
     "Something else?": "Let's see what I can help you with.\nWhat do you want to learn more about? %[Work Experience](postback:Work Experience) %[Education](postback:Education) %[Personal Life](postback:Personal Life)",
     "Learn more": "Glad you want to know more!\nAlex is a recent graduate of George Mason University where he obtained his B.S. in bioengineering. He is about to start employment of Epic Systems. He enjoys spending time on a kayak or doing weird projects, like creating me.\nWhat do you want to learn more about? %[Work Experience](postback:Work Experience) %[Education](postback:Education) %[Personal Life](postback:Personal Life)",
     "Random fact": "Alex was born in Augsburg, Germany. He wishes to visit again one day.",
