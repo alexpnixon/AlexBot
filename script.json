@@ -14,7 +14,7 @@
     
     "EDUCATION": "Alex obtained his B.S. in Bioengineering with a concentration on biomedical signals and systems from George Mason University. He participated in a variety of student organizations and research projects, and he obtained a few awards too! %[ORGANIZATIONS](postback:ORGANIZATIONS) %[RESEARCH](postback:RESEARCH) %[AWARDS](postback:AWARDS)",
     "ORGANIZATIONS": "",
-    "AWARDS":, "",
+    "AWARDS": "",
     
     "PERSONAL LIFE": "WRITE ME",
     "CONNECT ME": "",
