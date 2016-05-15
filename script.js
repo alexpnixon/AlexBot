@@ -52,12 +52,12 @@ module.exports = new Script({
 
                 var p = Promise.resolve();
                 _.each(lines, function(line) {
+                   setInterval(function(){
                     line = line.trim();
                     p = p.then(function() {
-                       setTimeout(function(){
                             console.log(line);
                             return bot.say(line);
-                            }, 10000);
+                            }, 3000);
                         
                     });
                 })
