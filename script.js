@@ -49,18 +49,18 @@ module.exports = new Script({
 
                 var response = scriptRules[upperText];
                 var lines = response.split('\n');
-
+                
+                setTimeout(function(){
                 var p = Promise.resolve();
                 _.each(lines, function(line) {
-                   setTimeout(function(){
                     line = line.trim();
                     p = p.then(function() {
                             console.log(line);
                             return bot.say(line);
-                            }, 8000);
                         
                     });
                 })
+                }
 
                 return p.then(() => 'speak');
             }
