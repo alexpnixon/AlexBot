@@ -54,9 +54,11 @@ module.exports = new Script({
                 _.each(lines, function(line) {
                     line = line.trim();
                     p = p.then(function() {
-                        console.log(line);
-                        sleep(3);
-                        return bot.say(line);
+                       setTimeout(function(){
+                            console.log(line);
+                            return bot.say(line);
+                            }, 2000);
+                        
                     });
                 })
 
