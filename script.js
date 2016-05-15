@@ -37,7 +37,10 @@ module.exports = new Script({
             function getSilent() {
                 return bot.getProp("silent");
             }
-
+            function randInt(min,max)
+            {
+                return Math.floor(Math.random()*(max-min+1)+min);
+            }
             function processMessage(isSilent) {
                 if (isSilent) {
                     return Promise.resolve("speak");
@@ -59,7 +62,7 @@ module.exports = new Script({
                             setTimeout(function(){
                             console.log(line);
                             return bot.say(line);}, sleep);
-                            sleep = sleep + 3000;
+                            sleep = sleep + randInt(2500, 4500);
                     });
                 })
 
