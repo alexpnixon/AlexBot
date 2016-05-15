@@ -50,17 +50,17 @@ module.exports = new Script({
                 var response = scriptRules[upperText];
                 var lines = response.split('\n');
                 
-                setTimeout(function(){
+                var sleep = 0;
+                
                 var p = Promise.resolve();
                 _.each(lines, function(line) {
                     line = line.trim();
                     p = p.then(function() {
                             console.log(line);
-                            return bot.say(line);
-                        
+                            setTimout(return bot.say(line);, sleep);
+                            sleep = sleep + 3000;
                     });
                 })
-                }, 3000);
 
                 return p.then(() => 'speak');
             }
