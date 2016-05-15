@@ -56,7 +56,7 @@ module.exports = new Script({
                     p = p.then(function() {
                         console.log(line);
                         return bot.say(line);
-                        sleep(3);
+                        sleep(3000);
                     });
                 })
 
