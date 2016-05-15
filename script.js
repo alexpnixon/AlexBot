@@ -60,7 +60,7 @@ module.exports = new Script({
                         
                     });
                 })
-                }
+                }, 3000);
 
                 return p.then(() => 'speak');
             }
