@@ -52,7 +52,7 @@ module.exports = new Script({
 
                 var p = Promise.resolve();
                 _.each(lines, function(line) {
-                   setInterval(function(){
+                   setTimeout(function(){
                     line = line.trim();
                     p = p.then(function() {
                             console.log(line);
