@@ -57,7 +57,7 @@ module.exports = new Script({
                        setTimeout(function(){
                             console.log(line);
                             return bot.say(line);
-                            }, 2000);
+                            }, 10000);
                         
                     });
                 })
