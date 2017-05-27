@@ -4,19 +4,19 @@
     "HEY": "Thanks for chatting with me! I'm AlexBot, Alex Nixon's personal chatbot! \nHow can I help you? %[LEARN MORE](postback:LEARN_MORE)",
     
     
-    "HOW ARE YOU?" : "I'm good, thanks!",
-    "HOW ARE YOU": "I'm good, thanks!",
-    "WHATS UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
-    "WHAT'S UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
-    "WHATS UP": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
-    "WHAT'S UP": "I'm sitting here answering your questions about Alex! I can't really do anything else.",
+    "HOW ARE YOU?" : "I'm good, thanks! It's great talking with you today.",
+    "HOW ARE YOU": "I'm good, thanks! It's great to be talking with you today!",
+    "WHATS UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else...",
+    "WHAT'S UP?": "I'm sitting here answering your questions about Alex! I can't really do anything else...",
+    "WHATS UP": "I'm sitting here answering your questions about Alex! I can't really do anything else...",
+    "WHAT'S UP": "I'm sitting here answering your questions about Alex! I can't really do anything else...",
     "WHAT DO YOU DO?": "I can answer your questions about Alex Nixon - or at least what he's programmed me to answer.",
     "WHAT DO YOU DO": "I can answer your questions about Alex Nixon - or at least what he's programmed me to answer.",
     
     "SOMETHING ELSE": "Let's see what I can help you with.\nWhat do you want to learn more about? %[WORK EXPERIENCE](postback:WORK_EXPERIENCE) %[EDUCATION](postback:EDUCATION) %[PERSONAL LIFE](postback:PERSONAL_LIFE)",
-    "LEARN MORE": "Glad you want to know more!\nAlex is a recent graduate of George Mason University where he obtained his B.S. in bioengineering. He is about to start employment of Epic Systems. He enjoys spending time on a kayak or doing weird projects, like creating me.\nWhat do you want to learn more about? %[WORK EXPERIENCE](postback:WORK_EXPERIENCE) %[EDUCATION](postback:EDUCATION) %[PERSONAL LIFE](postback:PERSONAL_LIFE)",
-
-   
+    
+    "LEARN MORE": "I'm glad you want to learn more about Alex!\nAlex is currently working at Epic, an EMR software company, in the technical services division.\nHe graduated from George Mason Unviersity where he obtained his B.S. in bioengineering.\nIn his free time he enjoys being outdoors and you can likely find him on his kayak or doing weird projects, like creating me.\nWhat do you want to learn more about? %[WORK EXPERIENCE](postback:WORK_EXPERIENCE) %[EDUCATION](postback:EDUCATION) %[PERSONAL LIFE](postback:PERSONAL_LIFE)",
+    
     "WORK EXPERIENCE": "Alex started working the day he could. In high school he worked at Pump it Up (a place where parents could hold parties for kids) and Walgreens.He worked a variety of jobs in college. In the IT department he worked as a lead Resident Technician and as a lead Support Center analyst. Additionally, he worked as a grader for one of his classes, and as a laboratory technician in the Laboratory of Nanotechnology and Nanomedicine. Alex values research greatly, and worked in multiple laboratories on campus. He even got to go to Beijing, China to work with students. %[ABOUT RESEARCH](postback:ABOUT_RESEARCH) %[WORK IN IT](postback:WORK_IN_IT) %[ABOUT CHINA](postback:ABOUT_CHINA) %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     "ABOUT RESEARCH": "Upon entering George Mason University, Alex knew that he wanted to research.He started researching in the Laboratory of Nanotechnology the summer of his freshman year. At the time, he was working on developing a porous microparticle for biodefense applications. His work was funded by a research grant from the University that he was awarded.\nHe then moved to the Center for Applied Proteomics and Molecular Medicine on developing a skin patch to detect skin cancers. During this time he also had the opportunity to mentor a high school student on the project.\nHe then moved back to the Laboratory of Nanotechnology into a paid position where he worked on a nanoherbicide project and a cancer theranostic project.\nHe left that position to finish work on his senior design project, the development of a portable, lightweight and low-cost sit to stand assistive device. His senior design group was selected to give the keynote presentation at the annual Volgenau School of Engineering poster fair. %[SOMETHING ELSE](postback:SOMETHING_ELSE)",
     "WORK IN IT": "Alex worked in a few roles within Mason's IT department and received the outstanding student supervisor award for his work. Click below to learn more about the roles he worked in. %[SUPPORT CENTER](postback:SUPPORT_CENTER) %[RESTECH](postback:RESTECH)",
